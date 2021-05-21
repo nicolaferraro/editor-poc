@@ -1,0 +1,7 @@
+.KameletNode img {
+    vertical-align: middle;
+    height: 2rem;
+    width: auto;
+    max-width: 60%;
+    padding: 0.4rem;
+}
